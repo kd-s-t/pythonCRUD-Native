@@ -5,4 +5,9 @@
 * Read    
 * Update    
 * Delete    
-         
+
+# Usage  
+`python Create.py`  
+`python Read.py`  
+`python Update.py`  
+`python Display.py`  
