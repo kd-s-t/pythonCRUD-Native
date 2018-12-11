@@ -1,4 +1,4 @@
-import connect
+import database.connect as connect
 
 print('Search by id to delete:')
 id = input()

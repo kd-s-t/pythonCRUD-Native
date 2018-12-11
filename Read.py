@@ -1,4 +1,4 @@
-import connect
+import database.connect as connect
 
 connect.mycursor.execute("SELECT * FROM customers")
 

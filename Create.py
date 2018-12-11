@@ -1,4 +1,4 @@
-import connect
+import database.connect as connect
 
 print('Enter your name:')
 name = input()
